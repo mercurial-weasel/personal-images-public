@@ -1,5 +1,16 @@
 # Personal Images Public
 
+## Summary
+
+| Field | Value |
+|-------|-------|
+| Context | Public-facing headshot images and profile photos for Blue Harbour team members, served as a CDN-style asset repo |
+| Classification | 100% Blue Harbour IP |
+| Users | Blue Harbour web properties, marketing collateral, and internal portals needing team headshots |
+| Commercial Value | Central source of truth for approved team profile images, ensuring consistency across all Blue Harbour digital presence |
+| Status Notes | Active. 16 headshots stored. Minor housekeeping needed (Debbie Malligan folder rename) |
+| Languages | N/A (image assets only) |
+
 ## Overview
 Public-facing headshot images and profile photos for Blue Harbour team members. Served as a CDN-style asset repo for use across websites, portals, and marketing materials.
 
