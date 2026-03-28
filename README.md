@@ -40,9 +40,6 @@ None — standalone image asset repository consumed by other projects via GitHub
 - Images are size-optimised for web use
 
 ---
-*Structured for GitHub-Powered IP Register sync. Fields above are read by the dashboard.*
-
----
 
 # Feature Register
 
@@ -73,3 +70,6 @@ None — standalone image asset repository consumed by other projects via GitHub
 | Date | Change |
 |------|--------|
 | 2026-03-21 | Added README with IP Register and Feature Register |
+
+---
+*Structured for GitHub-Powered IP Register sync. Fields above are read by the dashboard.*
